@@ -34,18 +34,18 @@ Execute the program using runserver command.
 <img src="/static/logo.png" height="100" width="540">
 </center>
 <br>
-<table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
+<table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="yellow">
 <caption><b>SLOT TIME TABLE - HARIHARAN J (23011967)</b></caption>
 <tr align="center">
-<th bgcolor="yellow">Day/Time</th>
-<th bgcolor="yellow">Monday
-<th bgcolor="yellow">Tuesday
-<th bgcolor="yellow">Wednesday
-<th bgcolor="yellow">Thursday
-<th bgcolor="yellow">Friday
+<th bgcolor="violet">Day/Time</th>
+<th bgcolor="violet">Monday
+<th bgcolor="violet">Tuesday
+<th bgcolor="violet">Wednesday
+<th bgcolor="violet">Thursday
+<th bgcolor="violet">Friday
 </tr>
-</tr> align="center">
-<th bgcolor="yellow">8-10</th>
+<tr align="center">
+<th bgcolor="violet">8-10</th>
 <td >SOFT SKILLS</td>
 <td >ENGINEERING MECHANICS AND PRODUCT DEVELOPMENT</td>
 <td >FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
@@ -53,7 +53,7 @@ Execute the program using runserver command.
 <td >PYTHON AND LINEAR ALGEBRA</td>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">10-12</th>
+<th bgcolor="violet">10-12</th>
 <td >FREE SLOT</td>
 <td >PYTHON AND LINEAR ALGEBRA</td>
 <td >FREE SLOT</td>
@@ -61,12 +61,12 @@ Execute the program using runserver command.
 <td >FUNDAMENTALS OF C PROGRAMMING</td>
 </tr>
 <tr>
-<th bgcolor="yellow">12-01</th>
+<th bgcolor="violet">12-01</th>
 <td colspan="5" align="center"> L U N C H</td>
 </tr>
 <tr>
 <tr align="center">
-<th bgcolor="yellow">01-03</th>
+<th bgcolor="violet">01-03</th>
 <td >ENGINEERING DESIGN AND MODELLING</td>
 <td >FREE SLOT</td>
 <td >FREE SLOT</td>
@@ -74,7 +74,7 @@ Execute the program using runserver command.
 <td >FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
 </tr>
 <tr align="center">
-<th bgcolor="yellow">03-05</th>
+<th bgcolor="violet">03-05</th>
 <td >ENGINEERING MECHANICS AND PRODUCT DEVELOPMENT</td>
 <td >FREE SLOT</td>
 <td >PYTHON AND LINEAR ALGEBRA</td>
@@ -122,12 +122,10 @@ Execute the program using runserver command.
 </table>
 </body>
 </html>
-
-
 ```
 ## OUTPUT
 
-![Alt text](<Screenshot 2023-11-07 151939.png>)## OUTPUT
+![OUTPUT](<Screenshot 2023-11-07 151939.png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
